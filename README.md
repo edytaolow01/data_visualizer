@@ -16,8 +16,8 @@ A Python application for visualizing time series data with multiple plot types a
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/edytaolow01/data_visualizer
+cd data_visualizer
 ```
 
 2. Create and activate the conda environment:
@@ -30,8 +30,8 @@ conda activate data-visualization
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/edytaolow01/data_visualizer
+cd data_visualizer
 ```
 
 2. Create a virtual environment and install dependencies:
