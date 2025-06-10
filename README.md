@@ -2,7 +2,7 @@
 
 A Python application for visualizing time series data with multiple plot types and interactive features.
 
-![](data_vizualizer.gif)
+![](data_visualizer.gif)
 
 ## Features
 
