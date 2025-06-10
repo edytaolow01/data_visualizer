@@ -77,7 +77,7 @@ python main.py
 
 ## Requirements
 
-- Python 3.11 or higher
+- Python 3.12 or higher (other may cause application errors)
 - NumPy
 - Pandas
 - Matplotlib
