@@ -44,6 +44,5 @@ Thumbs.db
 # Project specific
 *.log
 *.csv
-*.txt
 !requirements.txt
 !environment.yml 
