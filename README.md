@@ -12,6 +12,10 @@ A Python application for visualizing time series data with multiple plot types a
 - Correlation matrix heatmap
 - Scatter plots with multiple parameter selection
 
+## Data
+
+The data included in this project is NOT the original data from any specific aircraft.  This data was modified based on the data from the flight data recorder in a way that conserves all flight characteristics. 
+
 ## Installation
 
 ### Using Conda (Recommended)
@@ -45,7 +49,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Place your data file (Dane.txt) in the project root directory
+1. Place your data file (Modified_data.txt) in the project root directory
 2. Run the application:
 ```bash
 python main.py
