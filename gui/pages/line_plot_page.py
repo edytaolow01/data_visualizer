@@ -15,7 +15,7 @@ class PageOne(tk.Frame):
         tk.Frame.__init__(self, parent)
         
         # Initialize data processor
-        self.data_processor = DataProcessor("Dane.txt")
+        self.data_processor = DataProcessor("Modified_data.txt")
         self.df = self.data_processor.get_data()
         self.time = self.data_processor.get_time()
         
