@@ -1,6 +1,6 @@
 # Data Visualization Application
 
-A Python application for visualizing time series data with multiple plot types and interactive features.
+Simple Python application for visualizing time series data with multiple plot types and interactive features. 
 
 ![](data_visualizer.gif)
 
@@ -84,6 +84,7 @@ python main.py
 - Seaborn
 - Pillow
 
-## License
+## Limitations
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+- Since the data covers only one flight, a broader analysis using machine learning and deep learning techniques would likely not be effective. This will be addressed in future work.
+- The application should be optimized both in terms of the GUI and the time required to generate plots.
